@@ -31,6 +31,7 @@ else
     gitbook build . docs
 fi
 
+sudo chown zhangjie:zhangjie docs -R
 mv docs/.gitbook/assets docs/assets
 rm -rf docs/.gitbook
 
