@@ -1,8 +1,8 @@
 # Table of contents
 
-* [作者简介](Author.md)
-* [本书简介](README.md)
-* [本书前言](preface.md)
+## [作者简介](Author.md)
+## [本书简介](README.md)
+## [本书前言](preface.md)
 
 ## 第1章 服务架构演变
 
